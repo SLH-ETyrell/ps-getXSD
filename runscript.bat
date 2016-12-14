@@ -1,0 +1,1 @@
+powershell -executionpolicy bypass -File .\getXSDfiles.ps1 .\XSD .\results
